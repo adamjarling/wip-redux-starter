@@ -1,1 +1,1 @@
-Test Redux environment
+Test demo for learning Redux
